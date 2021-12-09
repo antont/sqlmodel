@@ -1,4 +1,5 @@
 __version__ = "0.0.4"
+versioninfo = "antont1"
 
 # Re-export from SQLAlchemy
 from sqlalchemy.engine import create_mock_engine as create_mock_engine
